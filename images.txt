@@ -1,2 +1,6 @@
 alpine
 python:alpine3.19
+mariadb:10.11
+memcached:1.6.18
+elasticsearch:8.6.2
+docker.seafile.top/seafileltd/seafile-pro-mc:11.0-latest
